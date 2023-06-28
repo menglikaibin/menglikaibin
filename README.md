@@ -6,5 +6,4 @@
 - 📫 How to reach me: menglikaibin@gmail.com
 - 😄 Be fond of: history & electronic product
 
-[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=menglikaibin&
-hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=menglikaibin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
